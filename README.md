@@ -13,5 +13,4 @@ cd qr-codeReader
 ```
 sudo main.py
 ```
-
-![qr-coordinates](https://user-images.githubusercontent.com/68698872/174505970-e1a7f416-8fb2-4c36-83bb-aa9a71123a79.png)
+![qr-coordinates](https://user-images.githubusercontent.com/68698872/174506040-beb410ce-fc2e-4d53-bf69-208920cb2294.png)
