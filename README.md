@@ -17,7 +17,7 @@ pip install opencv-python Pillow
 ```
 3. Open an image containing the QR code you want to examine and run main.py (you may need sudo privileges)
 ```
-sudo main.py
+sudo python3 main.py
 ```
 4. The program will start running and an indication will appear on top of your screen.
 5. Click the top-left and bottom-right corners of the QRcode you want to examine, as shown below.
