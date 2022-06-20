@@ -1,6 +1,6 @@
 from tkinter import *
-import pynput
-from pynput.mouse import Button, Controller, Listener
+#import pynput
+#from pynput.mouse import Button, Controller, Listener
 import mouse
 import PIL
 from PIL import ImageGrab
