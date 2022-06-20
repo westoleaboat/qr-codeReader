@@ -90,10 +90,16 @@ class Content:
                   #  my_QR.decode()
                   #  print(my_QR.data)
 
+
+        def closeMe(event):
+            root.destroy()
+            print('screenshot stop')
+        root.bind('<Key>', closeMe)
+
         #root.bind('<Button-1>', clicked)
         root.bind('<Button-1>', clicked)
 
-        lbl_click = Label(text='click the top-left and bottom-right corners of the image', font='Verdana 20')
+        lbl_click = Label(text='<click the top-left and bottom-right corners of the code image>\nPress any key to exit', font='Verdana 25')
         lbl_click.pack()
 
         lbl1 = Label(text='text')
