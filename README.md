@@ -13,7 +13,7 @@ sudo python3 -m venv env_name
 2. Install dependencies 
 ```
 source env_name/bin/activate
-pip install opencv-python
+pip install opencv-python Pillow
 ```
 3. Open an image containing the QR code you want to examine and run main.py (you may need sudo privileges)
 ```
