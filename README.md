@@ -9,7 +9,7 @@ cd project-folder/
 git clone https://github.com/westoleaboat/qr-codeReader.git
 cd qr-codeReader
 ```
-2. Open a image containing the QR code you want to examine and run main.py (you may need sudo privileges)
+2. Open an image containing the QR code you want to examine and run main.py (you may need sudo privileges)
 ```
 sudo main.py
 ```
