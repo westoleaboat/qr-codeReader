@@ -1,12 +1,12 @@
 from tkinter import *
 #import pynput
 #from pynput.mouse import Button, Controller, Listener
-import mouse
+#import mouse
 import PIL
 from PIL import ImageGrab
 import cv2
-import qrtools
-from qrtools import *
+#import qrtools
+#from qrtools import *
 #from qrtools.qrtools import *
 
 
